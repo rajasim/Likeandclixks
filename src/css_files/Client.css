@@ -33,7 +33,7 @@ body, html, #root, .App {
   .brands-container {
     display: flex;
     justify-content: center;
-    gap: 39.5rem;
+    gap: 8.5rem;
     position: relative;
     font-size: 2.4rem;
   }
